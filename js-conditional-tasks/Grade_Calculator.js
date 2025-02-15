@@ -14,7 +14,7 @@ Create a simple JavaScript program that takes a student's score as input and ret
 
 let score = 60;
 
-if (score < 59) {
+if (score < 60) {
     console.log("Your Grade: F");
 } else if (score < 69) {
     console.log("Your Grade: D");
